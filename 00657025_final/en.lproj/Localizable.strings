@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  00657025_final
+
+  Created by User07 on 2020/6/18.
+  Copyright © 2020 User23. All rights reserved.
+*/
+"Zoom in" = "Zoom in the map";
+"Zoom out" = "Zoom out the map";
+"Address" = "Address";
+"Phone" = "Phone";
+"AddressURL" = "AddressURL";
+"Long Press URL" = "Long press URL";
+"Train Station" = " Station";
+"station" = "Station";
+"train" = "Train";
+"common" = "Common";
+"Neither" = "Neither";
+"Mountain" = "Mountain";
+"Coast" = "Coast";
+"No" = "No";
+"Yes" = "Yes";
+"Get tickets!" = "Get tickets!";
+"Details" = "Details";
+"Train Type" = "Train Type";
+"Daily Train" = "Daily Train";
+"Wheel Chair Service" = "Wheel Chair Service";
+"Breat Feed Room" = "Breat Feed Room";
+"Train" = "Train";
+"From" = "From ";
+"to" = " to ";
+"At" = "At ";
+"time" = " time";
+"TrainNo" = "TrainNo";
+"Departure Time" = "Departure Time";
+"Results" = "Results";
+"Input TrainNo" = "Input TrainNo";
+"No Data!" = "No Data!";
+"Can't find the train." = "Can't find the train.";
+"Common Use" = "Common Use";
+"Input starting station" = "Input station name";
+"Input ending station" = "Input station name";
+"Choose starting hour" = "Choose starting hour";
+"Choose starting minute" = "Choose starting minute";
+"Starting time you choose" = "Starting time you choose";
+"Choose ending hour" = "Choose ending hour";
+"Choose ending minute" = "Choose ending minute";
+"Ending time you choose" = "Ending time you choose";
+"OK" = "OK";
+"Search Train Today" = "Search Train Today";
+"All" = "All";
+"keelung" = "Keelung";
+"new taipei" = "New Taipei";
+"taipei" = "Taipei";
+"taoyuan" = "Taoyuan";
+"hsinchu" = "Hsinchu";
+"miaoli" = "Miaoli";
+"taichung" = "Taichung";
+"changhua" = "Changhua";
+"yunlin" = "Yunlin";
+"chiayi" = "Chiayi";
+"tainan" = "Tainan";
+"kaohsiung" = "Kaohsiung";
+"pingtung" = "Pingtung";
+"taitung" = "Taitung";
+"yilan" = "Yilan";
+"hualien" = "Hualien";
+"Stations" = " Stations";
+"Select area" = "Select area";
+"All area" = "All area";

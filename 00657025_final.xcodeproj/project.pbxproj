@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -13,6 +13,24 @@
 		351395C6248BC36900BF2749 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 351395C5248BC36900BF2749 /* Assets.xcassets */; };
 		351395C9248BC36900BF2749 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 351395C8248BC36900BF2749 /* Preview Assets.xcassets */; };
 		351395CC248BC36900BF2749 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 351395CA248BC36900BF2749 /* LaunchScreen.storyboard */; };
+		351395D4248BC39900BF2749 /* TrainStation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351395D3248BC39900BF2749 /* TrainStation.swift */; };
+		351395D6248BC49D00BF2749 /* Trains.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351395D5248BC49D00BF2749 /* Trains.swift */; };
+		351395D8248BCAFB00BF2749 /* StationDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351395D7248BCAFB00BF2749 /* StationDetail.swift */; };
+		351395DA248BCB0B00BF2749 /* StationRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351395D9248BCB0B00BF2749 /* StationRow.swift */; };
+		351395DC248BCB1B00BF2749 /* StationList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 351395DB248BCB1B00BF2749 /* StationList.swift */; };
+		3557DC60248E236800EA03A7 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3557DC5F248E236800EA03A7 /* MapView.swift */; };
+		399FB3F924924A7F001462CF /* SelectTrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 399FB3F824924A7F001462CF /* SelectTrain.swift */; };
+		39D81790249088A000591E9E /* PartialSheet in Frameworks */ = {isa = PBXBuildFile; productRef = 39D8178F249088A000591E9E /* PartialSheet */; };
+		3B13CC9A2497455800D4CB90 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B13CC992497455800D4CB90 /* WebView.swift */; };
+		3B13CCA22497925500D4CB90 /* SafariServices.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B13CCA12497925500D4CB90 /* SafariServices.swift */; };
+		3B13CCA42497A71000D4CB90 /* UsedTrainsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B13CCA32497A71000D4CB90 /* UsedTrainsList.swift */; };
+		3B13CCA62497A78900D4CB90 /* UsedTrainDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B13CCA52497A78900D4CB90 /* UsedTrainDetail.swift */; };
+		3B13CCA82497A8D000D4CB90 /* UsedTrainRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B13CCA72497A8D000D4CB90 /* UsedTrainRow.swift */; };
+		438FEECB24A0EDFF001C6F15 /* ImagePickerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 438FEECA24A0EDFF001C6F15 /* ImagePickerController.swift */; };
+		478DF8CB248FCA3A00CE98EE /* TrainDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478DF8CA248FCA3A00CE98EE /* TrainDetail.swift */; };
+		478DF8CD248FCB5E00CE98EE /* TrainRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478DF8CC248FCB5E00CE98EE /* TrainRow.swift */; };
+		478DF8CF248FCCC200CE98EE /* TrainList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 478DF8CE248FCCC200CE98EE /* TrainList.swift */; };
+		57EB0D8F249B77B0008147EE /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 57EB0D91249B77B0008147EE /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +42,27 @@
 		351395C8248BC36900BF2749 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		351395CB248BC36900BF2749 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		351395CD248BC36900BF2749 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		351395D3248BC39900BF2749 /* TrainStation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainStation.swift; sourceTree = SOURCE_ROOT; };
+		351395D5248BC49D00BF2749 /* Trains.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Trains.swift; sourceTree = "<group>"; };
+		351395D7248BCAFB00BF2749 /* StationDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationDetail.swift; sourceTree = "<group>"; };
+		351395D9248BCB0B00BF2749 /* StationRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationRow.swift; sourceTree = "<group>"; };
+		351395DB248BCB1B00BF2749 /* StationList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationList.swift; sourceTree = "<group>"; };
+		3557DC5F248E236800EA03A7 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		399FB3F824924A7F001462CF /* SelectTrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectTrain.swift; sourceTree = "<group>"; };
+		3B13CC992497455800D4CB90 /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		3B13CCA12497925500D4CB90 /* SafariServices.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariServices.swift; sourceTree = "<group>"; };
+		3B13CCA32497A71000D4CB90 /* UsedTrainsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsedTrainsList.swift; sourceTree = "<group>"; };
+		3B13CCA52497A78900D4CB90 /* UsedTrainDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsedTrainDetail.swift; sourceTree = "<group>"; };
+		3B13CCA72497A8D000D4CB90 /* UsedTrainRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UsedTrainRow.swift; sourceTree = "<group>"; };
+		438FEECA24A0EDFF001C6F15 /* ImagePickerController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerController.swift; sourceTree = "<group>"; };
+		478DF8CA248FCA3A00CE98EE /* TrainDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainDetail.swift; sourceTree = "<group>"; };
+		478DF8CC248FCB5E00CE98EE /* TrainRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainRow.swift; sourceTree = "<group>"; };
+		478DF8CE248FCCC200CE98EE /* TrainList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrainList.swift; sourceTree = "<group>"; };
+		57EB0D90249B77B0008147EE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		57EB0D92249B7817008147EE /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		57EB0D93249B7818008147EE /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
+		57EB0D94249B7B23008147EE /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		57EB0D95249B7B23008147EE /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				39D81790249088A000591E9E /* PartialSheet in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,6 +96,23 @@
 		351395BE248BC36800BF2749 /* 00657025_final */ = {
 			isa = PBXGroup;
 			children = (
+				351395D3248BC39900BF2749 /* TrainStation.swift */,
+				351395D5248BC49D00BF2749 /* Trains.swift */,
+				351395D7248BCAFB00BF2749 /* StationDetail.swift */,
+				478DF8CA248FCA3A00CE98EE /* TrainDetail.swift */,
+				3B13CCA12497925500D4CB90 /* SafariServices.swift */,
+				478DF8CC248FCB5E00CE98EE /* TrainRow.swift */,
+				478DF8CE248FCCC200CE98EE /* TrainList.swift */,
+				3B13CCA32497A71000D4CB90 /* UsedTrainsList.swift */,
+				3B13CCA72497A8D000D4CB90 /* UsedTrainRow.swift */,
+				3B13CCA52497A78900D4CB90 /* UsedTrainDetail.swift */,
+				399FB3F824924A7F001462CF /* SelectTrain.swift */,
+				3557DC5F248E236800EA03A7 /* MapView.swift */,
+				351395D9248BCB0B00BF2749 /* StationRow.swift */,
+				351395DB248BCB1B00BF2749 /* StationList.swift */,
+				438FEECA24A0EDFF001C6F15 /* ImagePickerController.swift */,
+				57EB0D91249B77B0008147EE /* Localizable.strings */,
+				3B13CC992497455800D4CB90 /* WebView.swift */,
 				351395BF248BC36800BF2749 /* AppDelegate.swift */,
 				351395C1248BC36800BF2749 /* SceneDelegate.swift */,
 				351395C3248BC36800BF2749 /* ContentView.swift */,
@@ -91,6 +148,9 @@
 			dependencies = (
 			);
 			name = 00657025_final;
+			packageProductDependencies = (
+				39D8178F249088A000591E9E /* PartialSheet */,
+			);
 			productName = 00657025_final;
 			productReference = 351395BC248BC36800BF2749 /* 00657025_final.app */;
 			productType = "com.apple.product-type.application";
@@ -117,8 +177,13 @@
 			knownRegions = (
 				en,
 				Base,
+				ko,
+				"zh-Hant",
 			);
 			mainGroup = 351395B3248BC36800BF2749;
+			packageReferences = (
+				39D8178E249088A000591E9E /* XCRemoteSwiftPackageReference "PartialSheet" */,
+			);
 			productRefGroup = 351395BD248BC36800BF2749 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -134,6 +199,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				351395CC248BC36900BF2749 /* LaunchScreen.storyboard in Resources */,
+				57EB0D8F249B77B0008147EE /* Localizable.strings in Resources */,
 				351395C9248BC36900BF2749 /* Preview Assets.xcassets in Resources */,
 				351395C6248BC36900BF2749 /* Assets.xcassets in Resources */,
 			);
@@ -146,9 +212,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				478DF8CF248FCCC200CE98EE /* TrainList.swift in Sources */,
+				3B13CCA62497A78900D4CB90 /* UsedTrainDetail.swift in Sources */,
 				351395C0248BC36800BF2749 /* AppDelegate.swift in Sources */,
+				351395D8248BCAFB00BF2749 /* StationDetail.swift in Sources */,
+				3B13CCA22497925500D4CB90 /* SafariServices.swift in Sources */,
+				478DF8CD248FCB5E00CE98EE /* TrainRow.swift in Sources */,
+				351395DC248BCB1B00BF2749 /* StationList.swift in Sources */,
+				351395D4248BC39900BF2749 /* TrainStation.swift in Sources */,
 				351395C2248BC36800BF2749 /* SceneDelegate.swift in Sources */,
+				351395DA248BCB0B00BF2749 /* StationRow.swift in Sources */,
+				438FEECB24A0EDFF001C6F15 /* ImagePickerController.swift in Sources */,
+				399FB3F924924A7F001462CF /* SelectTrain.swift in Sources */,
 				351395C4248BC36800BF2749 /* ContentView.swift in Sources */,
+				3557DC60248E236800EA03A7 /* MapView.swift in Sources */,
+				351395D6248BC49D00BF2749 /* Trains.swift in Sources */,
+				3B13CCA42497A71000D4CB90 /* UsedTrainsList.swift in Sources */,
+				478DF8CB248FCA3A00CE98EE /* TrainDetail.swift in Sources */,
+				3B13CCA82497A8D000D4CB90 /* UsedTrainRow.swift in Sources */,
+				3B13CC9A2497455800D4CB90 /* WebView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -159,8 +241,20 @@
 			isa = PBXVariantGroup;
 			children = (
 				351395CB248BC36900BF2749 /* Base */,
+				57EB0D92249B7817008147EE /* ko */,
+				57EB0D94249B7B23008147EE /* zh-Hant */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		57EB0D91249B77B0008147EE /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				57EB0D90249B77B0008147EE /* en */,
+				57EB0D93249B7818008147EE /* ko */,
+				57EB0D95249B7B23008147EE /* zh-Hant */,
+			);
+			name = Localizable.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -170,6 +264,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -230,6 +325,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -288,6 +384,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"00657025_final/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = 00657025_final/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -307,6 +404,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"00657025_final/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = 00657025_final/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -340,6 +438,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		39D8178E249088A000591E9E /* XCRemoteSwiftPackageReference "PartialSheet" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/AndreaMiotto/PartialSheet";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.1.5;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		39D8178F249088A000591E9E /* PartialSheet */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 39D8178E249088A000591E9E /* XCRemoteSwiftPackageReference "PartialSheet" */;
+			productName = PartialSheet;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 351395B4248BC36800BF2749 /* Project object */;
 }

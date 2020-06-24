@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  00657025_final
+
+  Created by User07 on 2020/6/18.
+  Copyright © 2020 User23. All rights reserved.
+*/
+"Zoom in" = "縮小地圖";
+"Zoom out" = "放大地圖";
+"Address" = "地址";
+"Phone" = "車站電話";
+"AddressURL" = "車站網址";
+"Long Press URL" = "長按網址";
+"Train Station" = "火車站";
+"station" = "車站";
+"train" = "列車";
+"common" = "常用";
+"Neither" = "不經山海線";
+"Mountain" = "山線";
+"Coast" = "海線";
+"No" = "否";
+"Yes" = "是";
+"Get tickets!" = "去買票!";
+"Details" = "列車詳情";
+"Train Type" = "車種";
+"Daily Train" = "每日行駛";
+"Wheel Chair Service" = "身障旅客專用座位";
+"Breat Feed Room" = "設有哺(集)乳室車廂";
+"Train" = "次列車";
+"From" = "由";
+"to" = "開往";
+"At" = "到";
+"time" = "的時間";
+"TrainNo" = "列車編號";
+"Departure Time" = "出發時間";
+"Results" = "查詢結果";
+"Input TrainNo" = "輸入列車編號";
+"No Data!" = "暫無資料";
+"Can't find the train." = "查無此列車";
+"Common Use" = "常用列表";
+"Input starting station" = "輸入站名";
+"Input ending station" = "輸入站名";
+"Choose starting hour" = "選擇開始時間(時)";
+"Choose starting minute" = "選擇開始時間(分)";
+"Starting time you choose" = "您所選擇的開始時間";
+"Choose ending hour" = "選擇結束時間(時)";
+"Choose ending minute" = "選擇結束時間(分)";
+"Ending time you choose" = "您所選擇的結束時間";
+"OK" = "確定";
+"Search Train Today" = "當日列車查詢";
+"All" = "所有";
+"keelung" = "基隆";
+"new taipei" = "新北";
+"taipei" = "臺北";
+"taoyuan" = "桃園";
+"hsinchu" = "新竹";
+"miaoli" = "苗栗";
+"taichung" = "臺中";
+"changhua" = "彰化";
+"yunlin" = "雲林";
+"chiayi" = "嘉義";
+"tainan" = "臺南";
+"kaohsiung" = "高雄";
+"pingtung" = "屏東";
+"taitung" = "臺東";
+"yilan" = "宜蘭";
+"hualien" = "花蓮";
+"Stations" = "地區車站";
+"Select area" = "選擇地區";
+"All area" = "所有地區";
